@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrrocess",
+        "uuid": 10170128,
+        "checksum": "z29kjs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
